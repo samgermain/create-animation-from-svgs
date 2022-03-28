@@ -40,4 +40,5 @@ You may need to remove these lines from your svgs
 
 # Limitations
 
-Currently this only produces looping animations
+- Currently this only produces looping animations
+- Isn't perfect, is a bit buggy with some animations
